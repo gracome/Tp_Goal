@@ -1,0 +1,96 @@
+{
+	"fit": 
+		[
+			{
+				"nom":"jour1",
+				"cibles" : "pectoraux",
+				"exercice":"pompes",
+				"serie":4,
+				"details":"Allongez-vous face au sol avec les paumes de vos mains à l’extérieur de vos épaules. En gardant vos coudes écartés à environ 45°, concentrez-vous sur vos pectoraux. Avec votre dos droit et les jambes tendues, repoussez-vous vers le haut jusqu’à ce que vos bras soient quasi tendus, ensuite, redescendez de nouveau vers le sol jusqu’à ce que votre poitrine touche pratiquement le sol. Pour varier vos pompes et obtenir une sensation différente, placez vos pieds sur une chaise et les mains au sol ou inversement. Pour augmenter l’amplitude et la difficulté, placez vos mains sur deux chaises placées de chaque côté et remontez entre ces deux chaises."
+			},
+			{
+				"nom":"jour2",
+				"cibles": "pectoraux et triceps",
+				"exercice":"dips",
+				"serie":4,
+				"details":"Avec les bras tendues et les mains derrière le dos, saisissez le bord d’une chaise solide. Placez vos jambes tendues devant vous ou sur une autre chaise. Descendez votre buste jusqu’à ce que vos coudes fassent un angle de 90° puis repoussez-vous vers le haut jusqu’à ce que vos bras soient complètement tendus. Contractez bien vos triceps en haut pour augmenter l’efficacité de vos dips, puis recommencez."
+			},
+			{
+				"nom":"jour3",
+				"cibles": "triceps",
+				"exercice":"kickback",
+				"serie":4,
+				"details":"Penchez vous en avant en appui contre une chaise comme si vous alliez faire du rowing buste penché avec haltère. Prenez un haltère avec votre main libreet bloquez votre coude et la partie supérieure de votre bras contre votre buste. Votre coude devrait faire un angle de 90° dans la position de départ. Soulevez l’haltère en arrière, en contractant votre triceps jusqu’à ce que votre bras soit complètement tendu sur le côté et en arrière. Contractez en haut, puis, lentement, revenez à la position de départ. Faites toutes vos répétitions d’un côté avant de passer à l’autre bras."
+			},
+			{
+				"nom":"jour4",
+				"cilbles": "quadriceps et fessiers",
+				"exercice":"fentes avec halteres",
+				"serie":4,
+				"details":"Maintenez un haltère dans chaque main et tout en gardant le dos droit et vertical, faites un grand pas en avant et fléchissez sur la jambes en avant jusqu’à ce que votre genou fasse un angle de 90°. Remontez jusqu’à ce que votre jambe soit tendu et recommencez. Finissez vos reps d’un côté avant de passer à l’autre. Vous pouvez aussi faire des fentes alternés."
+			},
+			{
+				"nom":"jour5",
+				"cibles": "ischios et fessiers",
+				"exercice":"soulever de terre jambes tendues",
+				"serie":4,
+				"details":"Maintenez une paire d’haltères devant vos cuisses. Tout en gardant le dos droit descendez lentement les charges en vous penchant en avant au niveau de vos hanches jusqu’à ce que vous sentiez un bon étirement au niveau de vos ischios.N’arrondissez pas le bas du dos lors du soulevé de terre. Soulevez la charge en contractant vos fessiers, votre dos et vos ischios jusqu’à ce que vous soyez de nouveau en position verticale"
+			},
+			{
+				"nom":"jour6",
+				"cibles":"jambes",
+				"exercice":"elevation des mollets",
+				"serie":4,
+				"details":"Prenez un cale ou un objet mesurant au moins 15 cm de hauteur (comme une marche d’escalier). Prenez un point d’appui sur une rampe ou contre un mur, placez le bout du pied sur le bord de cette cale et l’autre pied derrière le mollet de la jambe qui travaille. Descendez en étirement complètement puis poussez pour remonter en contractant le mollet le plus fort possible. Tenez la contraction un instant, redescendez lentement et recommencez. Faites toutes les répétitions avec un jambe avant de passer à l’autre. Pour augmenter la résistance,maintenez un haltère le long du corps."
+			},
+			{
+				"nom":"jour7",
+				"cibles": "biceps",
+				"exercice":"curl concentré",
+				"serie":4,
+				"details":"Assis au bord d’une chaise avec un haltère dans une main. Penchez-vous en avant et bloquez vos genoux. Avec la paume tournée vers le haut, montez la charge pour obtenir une contraction maximale. Contractez brièvement en haut puis descendez lentement la charge et recommandez. Faites toutes vos reps du curl concentré d’un bras avant de travailler l’autre bras."
+			},
+			{
+				"nom":"jour8",
+				"cibles": "biceps",
+				"exercice":"curl alterné",
+				"serie":4,
+				"details":"En position assise ou debout, maintenez les haltères de chaque côté de votre corps, paumes tournées vers l’intérieur. Fléchissez un bras après l’autre tout en effectuant une supination des poignets (tournez les paumes vers le haut) en montant et revenez en position neutre (paumes face au corps) au cours de la descente. Gardez les bras et les coudes immobiles et contre le corps pendant le curl alterné"
+			},
+			{
+				"nom":"jour9",
+				"cibles" : "dorsaux",
+				"exercice":"pullover",
+				"serie":4,
+				"details":"Couchez-vous sur le dos en travers d’une chaise ou d’un lit de façon à ce que la partie supérieure de votre dos s’aligne avec le bord de la chaise ou du lit. Maintenez un haltère bras tendus directement au dessus de vous. Respirez profondément et descendez lentement l’haltère au dessus de votre tête jusqu’à ce que vous ressentiez un bon étirement (les mains près du sol) en gardant les fesses basses. Essayez de garder vos bras pratiquement tendus pendant toute l’amplitude du pull-over. Expirez en ramenant l’haltère au point de départ."
+			},
+			{
+				"nom":"jour10",
+				"cibles" : "épaules",
+				"exercice":"élevation latérales",
+				"serie":4,
+				"details":"Debout avec un haltère dans chaque main devant vos cuisses, paumes face à face. Penchez-vous légèrement en avant et pointez vos coudes vers l’extérieur. Montez les bras latéralement de chaque côté tout en gardant les coudes légèrement fléchis. Concentrez-vous pour conduire le mouvement avec vos coudes et laissez vos mains suivre. Montez les haltères jusqu’à ce que vos bras soient parallèle au sol.A ce niveau là, vos mains et vos coudes devraient être face au sol et les pouces légèrement orientés vers le bas. Descendez les charges jusqu’au niveau de la partie antérieure de vos cuisses et recommencez l’élévation latérale."
+			},
+			{
+				"nom":"jour11",
+				"cibles" : "trapèzes",
+				"exercice":"shrugs",
+				"serie":4,
+				"details":"Debout avec une paire d’haltères de chaque côté, montez directement vos épaules vers vos oreilles en contractez vos trapèzes en position haute. Gardez les bras tendus pendant tout le shrugs. Marquez une pause, puis redescendez la charge en vous étirant complètement en bas."
+			},
+			{
+				"nom":"jour12",
+				"cibles" : "dorsaux",
+				"exercice":"rowing haltère",
+				"serie":4,
+				"details":"Un pied devant l’autre, penchez-vous en avant d’environs 75° et soutenez votre buste en prenant appui avec un bras sur une chaise. En gardant le dos droit, tirez un haltère avec l’autre bras vers votre taille en montant le coude le plus haut possible en arrière. Contractez vos dorsaux et lentement redescendez le bras vers la position de départ. Faites toutes vos rowing d’un côté avant de passer à l’autre."
+			},
+			{
+				"nom":"jour13",
+				"cibles" : "abdominaux",
+				"exercice":"crunch",
+				"serie":4,
+				"details":"Couchez-vous sur le dos avec les chevilles croisées et les jambes placées comme si vous étiez assis (90° au niveau des genoux et des hanches). Placez vous mains légèrement derrière la tête mais ne croisez pas les doigts. Contractez vos abdominaux pour soulevez le haut de votre corps et décoller les omoplates du sol. Soufflez en montant et contractez en haut, puis inspirez en descendant."
+			}
+		]
+}
